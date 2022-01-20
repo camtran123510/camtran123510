@@ -6,6 +6,7 @@
 
 ## Get in touch with me on [Linkedin](https://www.linkedin.com/in/camtran925/)  
 
+Hello, I'm a student at UCI. 
 <!--
 **camtran123510/camtran123510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
