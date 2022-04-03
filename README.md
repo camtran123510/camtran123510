@@ -2,7 +2,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/55002078/148845187-914d6c72-39cc-492f-a1d3-bc0047dfcf45.JPG)
 
-# I am Cam Tran; a 4th-Year Computer Engineering and Electrical Engineering student @ UC Irvine
+# I am Cam Tran; I am a Computer Engineering and Electrical Engineering student @ UC Irvine
 
 ## Get in touch with me on [Linkedin](https://www.linkedin.com/in/camtran925/)  
 
